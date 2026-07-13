@@ -1,26 +1,23 @@
 # WAFonts
 
-WAFonts is a jailbreak tweak that lets you import and apply custom fonts throughout WhatsApp. Its settings are integrated directly into WhatsApp and automatically follow the device language in English or Arabic.
+WAFonts is a tweak that lets you import and apply custom fonts throughout WhatsApp. Its settings are integrated directly into WhatsApp.
 
-WAFonts هي أداة لأجهزة iOS المكسورة الحماية تتيح لك استيراد الخطوط المخصصة وتطبيقها داخل واتساب بالكامل. تظهر إعدادات الأداة مباشرة ضمن إعدادات واتساب، وتدعم اللغتين العربية والإنجليزية تلقائياً حسب لغة الجهاز.
+ هي أداة لأجهزة iOS تتيح لك استيراد الخطوط المخصصة وتطبيقها داخل واتساب بالكامل. تظهر إعدادات الأداة مباشرة ضمن إعدادات واتساب.
 
 ## Features | المميزات
 
 - Import custom `.otf`, `.ttf`, and `.ttc` font files from the Files app.
 - Select, enable, or delete imported fonts from WhatsApp Settings.
 - Apply the selected font throughout WhatsApp, including chats.
-- Native settings interface with automatic English and Arabic localization.
 - Support for WhatsApp and WhatsApp Business.
-- Rootful jailbreak package for iOS 14 and later.
+
 
 ---
 
 - استيراد ملفات الخطوط المخصصة بصيغ `.otf` و`.ttf` و`.ttc` من تطبيق الملفات.
 - اختيار الخطوط المستوردة وتفعيلها أو حذفها من إعدادات واتساب.
 - تطبيق الخط المحدد في واتساب بالكامل، بما في ذلك المحادثات.
-- واجهة إعدادات مدمجة تدعم العربية والإنجليزية تلقائياً.
 - دعم واتساب وواتساب للأعمال.
-- حزمة Rootful لنظام iOS 14 والإصدارات الأحدث.
 
 ## Screenshots | لقطات الشاشة
 
